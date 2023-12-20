@@ -8,11 +8,11 @@ body {
 }
 * {
   font-family: "Verdana", cursive, sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 
 body {
-  background-color: #7cc6fe;
+  background-color: #a6eff8;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ body {
 }
 
 .app {
-  background-color: #252d4a;
+  background-color: rgb(81, 158, 158);
   width: 450px;
   min-height: 200px;
   height: min-content;
@@ -76,8 +76,8 @@ body {
 button {
   width: 100%;
   font-size: 16px;
-  color: #ffffff;
-  background-color: #252d4a;
+  color: #000000;
+  background-color: #a699d4;
   border-radius: 15px;
   display: flex;
   padding: 5px;
@@ -96,7 +96,7 @@ button {
 }
 
 button:hover {
-  background-color: #555e7d;
+  background-color: #64defd;
 }
 
 button:focus {
